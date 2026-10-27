@@ -1,0 +1,7 @@
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_MaxValori1\bin\Debug\CA_MaxValori1.exe.config
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_MaxValori1\bin\Debug\CA_MaxValori1.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_MaxValori1\bin\Debug\CA_MaxValori1.pdb
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_MaxValori1\obj\Debug\CA_MaxValori1.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_MaxValori1\obj\Debug\CA_MaxValori1.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_MaxValori1\obj\Debug\CA_MaxValori1.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_MaxValori1\obj\Debug\CA_MaxValori1.pdb

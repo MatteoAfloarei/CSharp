@@ -1,0 +1,8 @@
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_conta\bin\Debug\CA_conta.exe.config
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_conta\bin\Debug\CA_conta.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_conta\bin\Debug\CA_conta.pdb
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_conta\obj\Debug\CA_conta.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_conta\obj\Debug\CA_conta.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_conta\obj\Debug\CA_conta.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_conta\obj\Debug\CA_conta.pdb
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_conta\obj\Debug\CA_conta.exe.config

@@ -1,0 +1,7 @@
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_logica\bin\Debug\CA_logica.exe.config
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_logica\bin\Debug\CA_logica.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_logica\bin\Debug\CA_logica.pdb
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_logica\obj\Debug\CA_logica.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_logica\obj\Debug\CA_logica.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_logica\obj\Debug\CA_logica.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_logica\obj\Debug\CA_logica.pdb

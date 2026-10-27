@@ -1,0 +1,8 @@
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_Bici\bin\Debug\CA_Bici.exe.config
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_Bici\bin\Debug\CA_Bici.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_Bici\bin\Debug\CA_Bici.pdb
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_Bici\obj\Debug\CA_Bici.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_Bici\obj\Debug\CA_Bici.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_Bici\obj\Debug\CA_Bici.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_Bici\obj\Debug\CA_Bici.pdb
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_Bici\obj\Debug\CA_Bici.exe.config

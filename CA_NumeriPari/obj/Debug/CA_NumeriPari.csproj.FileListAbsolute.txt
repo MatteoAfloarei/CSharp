@@ -1,0 +1,7 @@
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_NumeriPari\bin\Debug\CA_NumeriPari.exe.config
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_NumeriPari\bin\Debug\CA_NumeriPari.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_NumeriPari\bin\Debug\CA_NumeriPari.pdb
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_NumeriPari\obj\Debug\CA_NumeriPari.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_NumeriPari\obj\Debug\CA_NumeriPari.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_NumeriPari\obj\Debug\CA_NumeriPari.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_NumeriPari\obj\Debug\CA_NumeriPari.pdb

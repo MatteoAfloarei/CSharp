@@ -1,0 +1,8 @@
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_Commerciale\bin\Debug\CA_Commerciale.exe.config
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_Commerciale\bin\Debug\CA_Commerciale.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_Commerciale\bin\Debug\CA_Commerciale.pdb
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_Commerciale\obj\Debug\CA_Commerciale.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_Commerciale\obj\Debug\CA_Commerciale.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_Commerciale\obj\Debug\CA_Commerciale.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_Commerciale\obj\Debug\CA_Commerciale.pdb
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_Commerciale\obj\Debug\CA_Commerciale.exe.config

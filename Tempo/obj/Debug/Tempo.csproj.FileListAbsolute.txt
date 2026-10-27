@@ -1,0 +1,8 @@
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Tempo\bin\Debug\Tempo.exe.config
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Tempo\bin\Debug\Tempo.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Tempo\bin\Debug\Tempo.pdb
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Tempo\obj\Debug\Tempo.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Tempo\obj\Debug\Tempo.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Tempo\obj\Debug\Tempo.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Tempo\obj\Debug\Tempo.pdb
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Tempo\obj\Debug\Tempo.exe.config

@@ -1,0 +1,8 @@
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_Auto\bin\Debug\CA_Auto.exe.config
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_Auto\bin\Debug\CA_Auto.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_Auto\bin\Debug\CA_Auto.pdb
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_Auto\obj\Debug\CA_Auto.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_Auto\obj\Debug\CA_Auto.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_Auto\obj\Debug\CA_Auto.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_Auto\obj\Debug\CA_Auto.pdb
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_Auto\obj\Debug\CA_Auto.exe.config

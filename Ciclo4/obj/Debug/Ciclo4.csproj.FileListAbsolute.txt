@@ -1,0 +1,8 @@
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Ciclo4\bin\Debug\Ciclo4.exe.config
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Ciclo4\bin\Debug\Ciclo4.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Ciclo4\bin\Debug\Ciclo4.pdb
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Ciclo4\obj\Debug\Ciclo4.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Ciclo4\obj\Debug\Ciclo4.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Ciclo4\obj\Debug\Ciclo4.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Ciclo4\obj\Debug\Ciclo4.pdb
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Ciclo4\obj\Debug\Ciclo4.exe.config

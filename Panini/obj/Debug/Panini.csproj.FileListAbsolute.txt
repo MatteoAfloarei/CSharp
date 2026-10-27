@@ -1,0 +1,8 @@
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Panini\bin\Debug\Panini.exe.config
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Panini\bin\Debug\Panini.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Panini\bin\Debug\Panini.pdb
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Panini\obj\Debug\Panini.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Panini\obj\Debug\Panini.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Panini\obj\Debug\Panini.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Panini\obj\Debug\Panini.pdb
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Panini\obj\Debug\Panini.exe.config

@@ -1,0 +1,7 @@
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_AUTOSCONTO\bin\Debug\CA_AUTOSCONTO.exe.config
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_AUTOSCONTO\bin\Debug\CA_AUTOSCONTO.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_AUTOSCONTO\bin\Debug\CA_AUTOSCONTO.pdb
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_AUTOSCONTO\obj\Debug\CA_AUTOSCONTO.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_AUTOSCONTO\obj\Debug\CA_AUTOSCONTO.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_AUTOSCONTO\obj\Debug\CA_AUTOSCONTO.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_AUTOSCONTO\obj\Debug\CA_AUTOSCONTO.pdb

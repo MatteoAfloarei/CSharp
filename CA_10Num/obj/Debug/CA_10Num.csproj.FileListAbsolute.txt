@@ -1,0 +1,7 @@
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_10Num\bin\Debug\CA_10Num.exe.config
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_10Num\bin\Debug\CA_10Num.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_10Num\bin\Debug\CA_10Num.pdb
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_10Num\obj\Debug\CA_10Num.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_10Num\obj\Debug\CA_10Num.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_10Num\obj\Debug\CA_10Num.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_10Num\obj\Debug\CA_10Num.pdb

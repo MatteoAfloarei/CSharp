@@ -1,0 +1,8 @@
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_DispariCompresi\bin\Debug\CA_DispariCompresi.exe.config
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_DispariCompresi\bin\Debug\CA_DispariCompresi.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_DispariCompresi\bin\Debug\CA_DispariCompresi.pdb
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_DispariCompresi\obj\Debug\CA_DispariCompresi.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_DispariCompresi\obj\Debug\CA_DispariCompresi.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_DispariCompresi\obj\Debug\CA_DispariCompresi.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_DispariCompresi\obj\Debug\CA_DispariCompresi.pdb
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_DispariCompresi\obj\Debug\CA_DispariCompresi.exe.config

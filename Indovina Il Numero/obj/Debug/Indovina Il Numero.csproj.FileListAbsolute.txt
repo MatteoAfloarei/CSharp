@@ -1,0 +1,8 @@
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Indovina Il Numero\bin\Debug\Indovina Il Numero.exe.config
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Indovina Il Numero\bin\Debug\Indovina Il Numero.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Indovina Il Numero\bin\Debug\Indovina Il Numero.pdb
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Indovina Il Numero\obj\Debug\Indovina Il Numero.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Indovina Il Numero\obj\Debug\Indovina Il Numero.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Indovina Il Numero\obj\Debug\Indovina Il Numero.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Indovina Il Numero\obj\Debug\Indovina Il Numero.pdb
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Indovina Il Numero\obj\Debug\Indovina Il Numero.exe.config

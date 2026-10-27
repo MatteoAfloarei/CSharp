@@ -1,0 +1,8 @@
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_NSommatoria\bin\Debug\CA_NSommatoria.exe.config
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_NSommatoria\bin\Debug\CA_NSommatoria.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_NSommatoria\bin\Debug\CA_NSommatoria.pdb
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_NSommatoria\obj\Debug\CA_NSommatoria.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_NSommatoria\obj\Debug\CA_NSommatoria.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_NSommatoria\obj\Debug\CA_NSommatoria.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_NSommatoria\obj\Debug\CA_NSommatoria.pdb
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_NSommatoria\obj\Debug\CA_NSommatoria.exe.config

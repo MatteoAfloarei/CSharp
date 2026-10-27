@@ -1,0 +1,7 @@
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_Calcolatrice\bin\Debug\CA_Calcolatrice.exe.config
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_Calcolatrice\bin\Debug\CA_Calcolatrice.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_Calcolatrice\bin\Debug\CA_Calcolatrice.pdb
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_Calcolatrice\obj\Debug\CA_Calcolatrice.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_Calcolatrice\obj\Debug\CA_Calcolatrice.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_Calcolatrice\obj\Debug\CA_Calcolatrice.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_Calcolatrice\obj\Debug\CA_Calcolatrice.pdb

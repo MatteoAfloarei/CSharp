@@ -1,0 +1,8 @@
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_MediaVoti\bin\Debug\CA_MediaVoti.exe.config
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_MediaVoti\bin\Debug\CA_MediaVoti.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_MediaVoti\bin\Debug\CA_MediaVoti.pdb
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_MediaVoti\obj\Debug\CA_MediaVoti.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_MediaVoti\obj\Debug\CA_MediaVoti.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_MediaVoti\obj\Debug\CA_MediaVoti.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_MediaVoti\obj\Debug\CA_MediaVoti.pdb
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_MediaVoti\obj\Debug\CA_MediaVoti.exe.config

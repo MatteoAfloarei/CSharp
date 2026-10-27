@@ -1,0 +1,7 @@
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Cicli annidati\bin\Debug\Cicli annidati.exe.config
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Cicli annidati\bin\Debug\Cicli annidati.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Cicli annidati\bin\Debug\Cicli annidati.pdb
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Cicli annidati\obj\Debug\Cicli annidati.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Cicli annidati\obj\Debug\Cicli annidati.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Cicli annidati\obj\Debug\Cicli annidati.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Cicli annidati\obj\Debug\Cicli annidati.pdb

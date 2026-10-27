@@ -1,0 +1,7 @@
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\While loop\bin\Debug\While loop.exe.config
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\While loop\bin\Debug\While loop.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\While loop\bin\Debug\While loop.pdb
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\While loop\obj\Debug\While loop.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\While loop\obj\Debug\While loop.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\While loop\obj\Debug\While loop.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\While loop\obj\Debug\While loop.pdb

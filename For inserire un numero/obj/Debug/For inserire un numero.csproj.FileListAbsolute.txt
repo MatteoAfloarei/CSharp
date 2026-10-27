@@ -1,0 +1,8 @@
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\For inserire un numero\bin\Debug\For inserire un numero.exe.config
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\For inserire un numero\bin\Debug\For inserire un numero.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\For inserire un numero\bin\Debug\For inserire un numero.pdb
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\For inserire un numero\obj\Debug\For inserire un numero.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\For inserire un numero\obj\Debug\For inserire un numero.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\For inserire un numero\obj\Debug\For inserire un numero.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\For inserire un numero\obj\Debug\For inserire un numero.pdb
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\For inserire un numero\obj\Debug\For inserire un numero.exe.config

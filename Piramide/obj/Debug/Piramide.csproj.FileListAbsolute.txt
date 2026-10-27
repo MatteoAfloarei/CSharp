@@ -1,0 +1,8 @@
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Piramide\bin\Debug\Piramide.exe.config
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Piramide\bin\Debug\Piramide.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Piramide\bin\Debug\Piramide.pdb
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Piramide\obj\Debug\Piramide.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Piramide\obj\Debug\Piramide.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Piramide\obj\Debug\Piramide.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Piramide\obj\Debug\Piramide.pdb
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Piramide\obj\Debug\Piramide.exe.config

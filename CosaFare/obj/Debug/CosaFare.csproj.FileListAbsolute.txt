@@ -1,0 +1,8 @@
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CosaFare\obj\Debug\CosaFare.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CosaFare\obj\Debug\CosaFare.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CosaFare\bin\Debug\CosaFare.exe.config
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CosaFare\bin\Debug\CosaFare.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CosaFare\bin\Debug\CosaFare.pdb
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CosaFare\obj\Debug\CosaFare.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CosaFare\obj\Debug\CosaFare.pdb
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CosaFare\obj\Debug\CosaFare.exe.config

@@ -1,0 +1,7 @@
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_EserRandom\bin\Debug\CA_EserRandom.exe.config
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_EserRandom\bin\Debug\CA_EserRandom.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_EserRandom\bin\Debug\CA_EserRandom.pdb
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_EserRandom\obj\Debug\CA_EserRandom.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_EserRandom\obj\Debug\CA_EserRandom.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_EserRandom\obj\Debug\CA_EserRandom.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\CA_EserRandom\obj\Debug\CA_EserRandom.pdb

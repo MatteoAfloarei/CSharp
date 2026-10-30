@@ -1,0 +1,7 @@
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Divisori\bin\Debug\Divisori.exe.config
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Divisori\bin\Debug\Divisori.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Divisori\bin\Debug\Divisori.pdb
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Divisori\obj\Debug\Divisori.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Divisori\obj\Debug\Divisori.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Divisori\obj\Debug\Divisori.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Divisori\obj\Debug\Divisori.pdb

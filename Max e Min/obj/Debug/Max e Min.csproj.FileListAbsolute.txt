@@ -1,0 +1,7 @@
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Max e Min\bin\Debug\Max e Min.exe.config
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Max e Min\bin\Debug\Max e Min.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Max e Min\bin\Debug\Max e Min.pdb
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Max e Min\obj\Debug\Max e Min.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Max e Min\obj\Debug\Max e Min.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Max e Min\obj\Debug\Max e Min.exe
+C:\Users\Utente\Desktop\Matteo Afloarei\Scuola\Max e Min\obj\Debug\Max e Min.pdb
